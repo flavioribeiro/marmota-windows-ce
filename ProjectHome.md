@@ -1,0 +1,1 @@
+Cliente para controle do carrinho controlado para celulares Windows CE utilizando PythonCE para QTEK 9100.
